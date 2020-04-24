@@ -26,6 +26,7 @@
                 </div><!-- col -->
                 <div class="col-md-3">
 
+                    
                     <div class="widget widget-pages">
 
                         <h5 class="widget-title">Dr. Jorge L. Cisneros Encalada</h5>
