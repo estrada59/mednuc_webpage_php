@@ -174,7 +174,7 @@
                         <div class="team-member-details">
 
                             <h4><a href="#">Viridiana Méndez Gutiérrez</a></h4>
-                            <p>POE y Lic. en enfermería</p>
+                            <p>Tecnóloga Nuclear</p>
 
                         </div><!-- team-member-details -->
                     </div><!-- team-member -->
@@ -210,7 +210,7 @@
                         <div class="team-member-details">
 
                             <h4><a href="#">Stephanie Méndez Gutiérrez</a></h4>
-                            <p>POE y Lic. en enfermería</p>
+                            <p>Tecnóloga Nuclear</p>
 
                         </div><!-- team-member-details -->
                     </div><!-- team-member -->
@@ -230,7 +230,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8">
 
-                            <h1>17 Años de experiencia en varios casos</h1>
+                            <h1>17 Años de experiencia en Tuxtla Gutiérrez</h1>
                             <p class="last">Hemos hecho una gran variedad de estudios para el dianóstico y tratamiento 
                                 de varios padecimientos.</p>
 

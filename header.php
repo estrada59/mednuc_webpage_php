@@ -27,10 +27,9 @@
                         <li class= "">
                             <a href="nosotros.php">Nosotros</a>
                         </li>
-                        <!--<li class= "">
+                        <li class= "">
                             <a href="servicios.php">Servicios</a>
-                        </li>-->
-                    
+                        </li>
                         <li class= "">
                             <a href="contacto.php">Contacto</a>
                         </li>

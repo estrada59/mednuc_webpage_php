@@ -19,7 +19,7 @@
     </div><!-- MAIN CONTAINER -->
 
     <!-- SCROLL UP -->
-    <a id="scroll-up" class="waves"> <i class="fa fa-angle-up"></i></a>
+    <a id="scroll-up" class="waves"><i class="fa fa-angle-up"></i></a>
 
     <?php include_once "script.php"; ?>
 
