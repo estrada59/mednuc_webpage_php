@@ -135,7 +135,7 @@
                             <div class="team-member-details">
 
                                 <h4><a href="#">Viridiana Méndez Gutiérrez</a></h4>
-                                <p>POE y Lic. en Enfermería</p>
+                                <p>Tecnóloga Nuclear</p>
 
                             </div><!-- team-member-details -->
                         </div><!-- team-member -->
@@ -169,7 +169,7 @@
                             <div class="team-member-details">
 
                                 <h4><a href="#">Stephanie Méndez Gutiérrez</a></h4>
-                                <p>POE y Lic. en Enfermería</p>
+                                <p>Tecnóloga Nuclear</p>
 
                             </div><!-- team-member-details -->
                         </div><!-- team-member -->
