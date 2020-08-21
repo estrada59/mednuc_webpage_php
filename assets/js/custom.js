@@ -476,7 +476,7 @@
 
                 var data_zoom = 15,
                     data_height,
-                    data_popup = false;
+                    data_popup = true;
 
                 if ($(this).attr("data-zoom") !== undefined) {
                     data_zoom = parseInt($(this).attr("data-zoom"),10);
