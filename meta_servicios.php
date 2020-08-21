@@ -12,7 +12,7 @@
     <meta name="theme-color" content="#d70011">
 
     <!-- Google Analytics -->
-    <!-- <script>
+    <!--<script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -20,8 +20,7 @@
         
         ga('create', 'UA-27765610-1', 'auto');
         ga('send', 'pageview');
-    </script> 
-     End Google Analytics -->
+    </script> -->
 
     <!-- FONTS -->
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic">
@@ -42,7 +41,7 @@
     <link rel="stylesheet" href="assets/plugins/owl-carousel/owl.carousel.min.css">
 
     <!-- YOUTUBE PLAYER -->
-    <link rel="stylesheet" href="assets/plugins/ytplayer/css/jquery.mb.ytplayer.min.css">
+    <!--<link rel="stylesheet" href="assets/plugins/ytplayer/css/jquery.mb.ytplayer.min.css">-->
 
     <!-- ANIMATIONS -->
     <link rel="stylesheet" href="assets/plugins/animations/animate.min.css">
