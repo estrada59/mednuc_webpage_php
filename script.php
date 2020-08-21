@@ -46,7 +46,7 @@
 <script src="assets/plugins/twitter/twitterfetcher.min.js"></script>
 
 <!-- YOUTUBE PLAYER -->
-<script src="assets/plugins/ytplayer/jquery.mb.ytplayer.min.js"></script>
+<!--<script src="assets/plugins/ytplayer/jquery.mb.ytplayer.min.js"></script>-->
 
 <!-- COUNTDOWN -->
 <script src="assets/plugins/countdown/jquery.countdown.min.js"></script>

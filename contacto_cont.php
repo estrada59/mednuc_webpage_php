@@ -22,53 +22,14 @@
 				<div class="col-md-8">
 
 					<h5><strong>Comunícate con nosotros</strong></h5>
-<!--
-					<form id="contact-form" name="contact-form" method="post" action="assets/php/send.php">
-						<fieldset>
 
-							<div id="alert-area"></div>
-
-							<p>
-								<input class="col-12" id="name" type="text" name="name" placeholder="" required>
-								<span></span>
-								<label for="name">Name</label>
-							</p>
-
-							<p>
-								<input class="col-12" id="email" type="text" name="email" placeholder="" required>
-								<span></span>
-								<label for="email">E-mail</label>
-							</p>
-
-							<p>
-								<input class="col-12" id="subject" type="text" name="email" placeholder="" required>
-								<span></span>
-								<label for="subject">Subject</label>
-							</p>
-
-							<p>
-								<textarea class="col-12" id="message" name="message" rows="3" cols="25" placeholder="" required></textarea>
-								<span></span>
-								<label for="message">Message</label>
-							</p>
-
-							<button class="btn btn-default btn-outline waves waves-dark" id="submit" type="submit" name="submit" value="">Send message <i class="decode-icon-cursor"></i></button>
-
-						</fieldset>
-					</form>
--->
-
-						<div class="team-member">
-							<div class="team-member-thumb">
-
-								<a href="#"><img src="images/contact/numedics.jpg" alt=""></a>
-
-							</div><!-- team-member-thumb -->
-							
-						</div><!-- team-member -->
+					<div class="team-member">
+						<div class="team-member-thumb">
+							<a href="#"><img src="images/contact/numedics.jpg" alt=""></a>
+						</div><!-- team-member-thumb -->	
+					</div><!-- team-member -->
 				</div>
 				<div class="col-md-4">
-
 					<h5><strong>Información de contacto</strong></h5>
 
 					<br>
@@ -107,7 +68,20 @@
 
 		<br>
 
-		<div class="map mb-0" data-zoom="15" data-height="600" data-address="Circunvalación Pichucalco 216 Col. Moctezuma Tuxtla Gutiérrez, Chiapas" data-address-details="Aquí estamos ubicados"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="map-responsive">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1910.2051840850415!2d-93.1301218301285!3d16.756246922449687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ecd8faf45b91ef%3A0xacad21a720ee6e22!2sMedicina%20Nuclear%20de%20Chiapas!5e0!3m2!1sen!2smx!4v1597900680658!5m2!1sen!2smx" height="500px" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+		
+
+
+
 
 	</div><!-- PAGE CONTENT -->
 
