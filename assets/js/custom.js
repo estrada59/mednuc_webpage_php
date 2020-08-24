@@ -117,7 +117,7 @@
             class: ""
         }).insertAfter("header");
 
-        $("#header-sticky #logo img").attr("src", "assets/images/logo.png");
+        $("#header-sticky #logo img").attr("src", "assets/images/logo.webp");
 
         $(window).scroll(function(){
 
@@ -239,8 +239,10 @@
 
         if ($(window).scrollTop() > $(window).height()/9) {
             $("#scroll-up").fadeIn(10);
+            $("#scroll-up-what").fadeIn(10);
         } else {
             $("#scroll-up").fadeOut(10);
+            $("#scroll-up-what").fadeOut(10);
         }
 
     }
@@ -254,6 +256,16 @@
                 scrollTop: 0
             }, 800);
             return false;
+        });
+
+    }
+
+
+    // SCROLL UP WHATSAPP//
+    function scroll_up_whatsapp() {
+
+        $("#scroll-up-what").on("click", function() {
+            window.open("https://api.whatsapp.com/send?phone=529616029211", "_blanck", "");
         });
 
     }
@@ -313,6 +325,8 @@
         }
 
     }
+
+  
 
     // DOCUMENT READY //
     $(document).ready(function(){
@@ -657,6 +671,10 @@
         scroll_up();
 
 
+        // SCROLL UP WHATSAPP//
+        scroll_up_whatsapp();
+
+
         // PROGRESS BARS //
         progress_bars();
 
@@ -731,6 +749,9 @@
         if ($("body").hasClass("footer-parallax")) {
             footer_parallax();
         }
+
+
+        
 
     });
 
