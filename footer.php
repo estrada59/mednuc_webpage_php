@@ -11,7 +11,7 @@
 
                         <div>
 
-                            <p><img src="assets/images/logo-white.png" alt=""></p>
+                            <p><img src="assets/images/logo-white.webp" alt=""></p>
 
                             <br>
 
@@ -81,8 +81,7 @@
                                 961 602 9211 y 961 602 9479
                             </li>
                             <li>
-                                <i class="fa fa-whatsapp"></i>
-                                961 602 9211 
+                                <a href="https://api.whatsapp.com/send?phone=529616029211" target="_blank"><i class="fa fa-whatsapp"></i>961 602 9211 </a> 
                             </li>
                             <li>
                                 <i class="fa fa-envelope-o"></i>
@@ -105,7 +104,13 @@
                 <div class="col-md-6 order-1 order-md-2 text-center text-md-right">
 
                     <div class="widget widget-social">
+                        <div class="social-media">
 
+                            <a class="whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" target="_blank"><i class="fa fa-whatsapp"></i></a>
+                            
+                           
+
+                        </div><!-- social-media -->
                        
 
                     </div><!-- widget-social -->

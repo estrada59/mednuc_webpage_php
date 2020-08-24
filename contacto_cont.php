@@ -3,7 +3,7 @@
     <!-- PAGE CONTENT -->
 	<div id="page-content">
 
-		<div id="page-header" class="parallax" data-stellar-background-ratio="0.7" style="background-image: url(images/backgrounds/page-header-3.jpg);">
+		<div id="page-header" class="parallax" data-stellar-background-ratio="0.7" style="background-image: url(images/backgrounds/page-header-3.webp);">
 
 			<div class="container">
 				<div class="row">
@@ -25,7 +25,7 @@
 
 					<div class="team-member">
 						<div class="team-member-thumb">
-							<a href="#"><img src="images/contact/numedics.jpg" alt=""></a>
+							<a href="#"><img src="images/contact/numedics.webp" alt=""></a>
 						</div><!-- team-member-thumb -->	
 					</div><!-- team-member -->
 				</div>
@@ -78,6 +78,8 @@
 				</div>
 			</div>
 		</div>
+
+		<br>
 		
 
 

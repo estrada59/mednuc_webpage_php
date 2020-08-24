@@ -3,8 +3,8 @@
 
         <div class="main-slider-container">
             <div class="owl-carousel main-slider">
-                <div class="item" style="background-image:url(images/index/main-slider/bg-slide-1.jpg);">
-
+                <div class="item" style="background-image:url(images/index/main-slider/bg-slide-1.webp);">
+                    
                     <div class="slide-overlay"></div>
 
                     <div class="slide-description">
@@ -18,7 +18,7 @@
                                     <p>Contamos con equipo médico especializado en medicina nuclear<br>
                                        para proporcionarte el mejor servicio.</p>
 
-                                    <a class="btn btn-default waves" href="contacto.php">Haz una cita</a>
+                                       <a class="btn btn-default waves whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" target="_blank">Haz una cita</a>
 
                                 </div><!-- col -->
                             </div><!-- row -->
@@ -27,7 +27,7 @@
                     </div><!-- slider-description -->
 
                 </div><!-- item -->
-                <div class="item" style="background-image:url(images/index/main-slider/bg-slide-2.jpg);">
+                <div class="item" style="background-image:url(images/index/main-slider/bg-slide-2.webp);">
 
                     <div class="slide-overlay"></div>
                     
@@ -42,7 +42,7 @@
                                     <p>Ofrecemos servicios de diagnóstico y tratamiento en Medicina Nuclear.<br>
                                         </p>
 
-                                    <a class="btn btn-default waves" href="contacto.php">Haz una cita</a>
+                                        <a class="btn btn-default waves whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" target="_blank">Haz una cita</a>
 
                                 </div><!-- col -->
                             </div><!-- row -->
@@ -51,7 +51,7 @@
                     </div><!-- slider-description -->
 
                 </div><!-- item -->
-                <div class="item" style="background-image:url(images/index/main-slider/bg-slide-3.jpg);">
+                <div class="item" style="background-image:url(images/index/main-slider/bg-slide-3.webp);">
 
                     <div class="slide-overlay"></div>
 
@@ -69,7 +69,8 @@
                                         <br>
                                         con la mejor atención y calidad de servicio a nuestros clientes.</p>
 
-                                    <a class="btn btn-default waves" href="contacto.php">Haz una cita</a>
+                                    <a class="btn btn-default waves whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" target="_blank">Haz una cita</a>
+                                   
 
                                 </div><!-- col -->
                             </div><!-- row -->
@@ -168,7 +169,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb">
 
-                            <a href="#"><img src="images/about/team/image-5.jpg" alt=""></a>
+                            <a href="#"><img src="images/about/team/image-5.webp" alt=""></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -186,7 +187,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb">
 
-                            <a href="#"><img src="images/about/team/image-4.jpg" alt=""></a>
+                            <a href="#"><img src="images/about/team/image-4.webp" alt=""></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -204,7 +205,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb">
 
-                            <a href="#"><img src="images/about/team/image-3.jpg" alt=""></a>
+                            <a href="#"><img src="images/about/team/image-3.webp" alt=""></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">

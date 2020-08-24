@@ -3,7 +3,7 @@
     <div id="page-content">
 
         <div id="page-header" class="parallax" data-stellar-background-ratio="0.3"
-            style="background-image: url(images/backgrounds/page-header-2.jpg);">
+            style="background-image: url(images/backgrounds/page-header-2.webp);">
 
             <div class="container">
                 <div class="row">
@@ -24,7 +24,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_cardiaco.php"  ><img src="images/services/Gamm_cardiaco.jpg" alt="Gammagrama Cardiaco"></a>
+                            <a href="gammagrama_cardiaco.php"  ><img src="images/services/Gamm_cardiaco.webp" alt="Gammagrama Cardiaco"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -41,7 +41,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_oseo.php"><img src="images/services/Gamm_oseo.jpg" alt="Gammagrama Óseo"></a>
+                            <a href="gammagrama_oseo.php"><img src="images/services/Gamm_oseo.webp" alt="Gammagrama Óseo"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -57,7 +57,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_spect_cerebral.php"><img src="images/services/Gamm_spect_cerebral.jpg" alt="Gammagrama SPECT cerebral"></a>
+                            <a href="gammagrama_spect_cerebral.php"><img src="images/services/Gamm_spect_cerebral.webp" alt="Gammagrama SPECT cerebral"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -73,7 +73,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_tiroideo.php"><img src="images/services/Gamm_tiroides.jpg" alt="Gammagrama Tiroideo"></a>
+                            <a href="gammagrama_tiroideo.php"><img src="images/services/Gamm_tiroides.webp" alt="Gammagrama Tiroideo"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -91,7 +91,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_hepatoesplenico.php"><img src="images/services/Gamm_hepatico.jpg" alt="Gammagrama Hepatoesplénico"></a>
+                            <a href="gammagrama_hepatoesplenico.php"><img src="images/services/Gamm_hepatico.webp" alt="Gammagrama Hepatoesplénico"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -108,7 +108,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_hepatobiliar.jpg" alt="Gammagrama Hepatobiliar"></a>
+                            <a href="#"><img src="images/services/Gamm_hepatobiliar.webp" alt="Gammagrama Hepatobiliar"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -125,7 +125,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_renal.php"><img src="images/services/Gamm_renal.jpg" alt="Gammagrama Renal"></a>
+                            <a href="gammagrama_renal.php"><img src="images/services/Gamm_renal.webp" alt="Gammagrama Renal"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -142,7 +142,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_mama.jpg" alt="Gammagrama de mama"></a>
+                            <a href="#"><img src="images/services/Gamm_mama.webp" alt="Gammagrama de mama"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -159,7 +159,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_pulmonar.jpg" alt="Gammagrama Pulmonar"></a>
+                            <a href="#"><img src="images/services/Gamm_pulmonar.webp" alt="Gammagrama Pulmonar"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -177,7 +177,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_gastroesofagico.jpg" alt="Gammagrama Gastroesofágico"></a>
+                            <a href="#"><img src="images/services/Gamm_gastroesofagico.webp" alt="Gammagrama Gastroesofágico"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -194,7 +194,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_bazo.jpg" alt="Gammagrama Bazo"></a>
+                            <a href="#"><img src="images/services/Gamm_bazo.webp" alt="Gammagrama Bazo"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -211,7 +211,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_paratiroideo.jpg" alt="Gammagrama Paratoriodeo"></a>
+                            <a href="#"><img src="images/services/Gamm_paratiroideo.webp" alt="Gammagrama Paratoriodeo"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">

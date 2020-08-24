@@ -6,7 +6,7 @@
         <div id="page-content">
 
             <div id="page-header" class="parallax" data-stellar-background-ratio="0.7"
-                style="background-image: url(images/backgrounds/page-header-1.jpg);">
+                style="background-image: url(images/backgrounds/page-header-1.webp);">
 
                 <div class="container">
                     <div class="row">
@@ -129,7 +129,7 @@
                         <div class="team-member">
                             <div class="team-member-thumb">
 
-                                <a href="#"><img src="images/about/team/image-5.jpg" alt=""></a>
+                                <a href="#"><img src="images/about/team/image-5.webp" alt=""></a>
 
                             </div><!-- team-member-thumb -->
                             <div class="team-member-details">
@@ -146,7 +146,7 @@
                         <div class="team-member">
                             <div class="team-member-thumb">
 
-                                <a href="#"><img src="images/about/team/image-4.jpg" alt=""></a>
+                                <a href="#"><img src="images/about/team/image-4.webp" alt=""></a>
 
                             </div><!-- team-member-thumb -->
                             <div class="team-member-details">
@@ -163,7 +163,7 @@
                         <div class="team-member">
                             <div class="team-member-thumb">
 
-                                <a href="#"><img src="images/about/team/image-3.jpg" alt=""></a>
+                                <a href="#"><img src="images/about/team/image-3.webp" alt=""></a>
 
                             </div><!-- team-member-thumb -->
                             <div class="team-member-details">
@@ -297,7 +297,7 @@
                                         <h4>Comienzos</h4>
 
                                         <p>El Dr. Jorge L. Cisneros realizó la especialidad de Medicina Nuclear en el Hospital de Especialidades del Centro Médico Nacional Siglo XXI.</p>
-                                        <img src="images\nosotros\imss.jpg">
+                                        <img src="images\nosotros\imss.webp">
 
                                     </div><!-- col -->
                                 </div><!-- row -->
@@ -312,7 +312,7 @@
 
                                         <p>El Dr. Jorge L. Cisneros fundó la primer clínica de Medicina Nuclear en Chiapas.</p>
 
-                                        <img src="images\nosotros\clinica.jpg">
+                                        <img src="images\nosotros\clinica.webp">
 
                                     </div><!-- col -->
                                     <div class="col-md-2 order-1 order-md-2">
@@ -337,7 +337,7 @@
 
                                         <p>Fundó el Colegio de Medicina Nuclear de México A. C., el cual fue creado para tener una organización de opinión crítica en busca de garantía, calidad y certeza en el ejercicio profesional.</p>
 
-                                        <img src="images\nosotros\colegio.jpg">
+                                        <img src="images\nosotros\colegio.webp">
 
                                     </div><!-- col -->
                                 </div><!-- row -->
@@ -351,7 +351,7 @@
 
                                         <p>Se finaliza con la Remodelación de las instalaciones.</p>
 
-                                        <img src="images\nosotros\remodelacion.jpg">
+                                        <img src="images\nosotros\remodelacion.webp">
 
                                     </div><!-- col -->
                                     <div class="col-md-2 order-1 order-md-2">

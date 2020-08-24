@@ -18,7 +18,7 @@
         <div id="page-content">
 
             <div id="page-header" class="parallax" data-stellar-background-ratio="0.3"
-                 style="background-image: url(images/backgrounds/page-header-3.jpg);">
+                 style="background-image: url(images/backgrounds/page-header-3.webp);">
 
                 <div class="container">
                     <div class="row">
@@ -36,7 +36,7 @@
                 <div class="row">
                     <div class="col-lg-5">
 
-                        <p class="text-justify mb-5" ><img src="images/services/Gammagrama_Cardiaco.jpg" alt="Gammagrama Cardíaco">Permiten evaluar de manera no invasiva, funcional y cuantificable la perfusión y la reserva coronaria de las paredes del ventriculo izquierdo.</p>
+                        <p class="text-justify mb-5" ><img src="images/services/Gammagrama_Cardiaco.webp" alt="Gammagrama Cardíaco">Permiten evaluar de manera no invasiva, funcional y cuantificable la perfusión y la reserva coronaria de las paredes del ventriculo izquierdo.</p>
                    
 
                     </div><!-- col -->
@@ -116,7 +116,7 @@
                     </div><!-- col -->
 
                     <div class="col-md-5">
-                        <p class="text-center mb-5"><img src="images/services/Spect_Cardiaco.jpg" alt="SPECT Cardíaco"></p>
+                        <p class="text-center mb-5"><img src="images/services/Spect_Cardiaco.webp" alt="SPECT Cardíaco"></p>
                     </div><!-- col -->
                 </div><!-- row -->
             </div><!-- container -->
@@ -155,42 +155,42 @@
 
             <div class="container">
                 <div class="row">
-                    
-                    <div class="col-md-4 ml-auto">
-                        <iframe  src="https://www.youtube.com/embed/1KickV7trak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        
-                    </div>
+                    <div class="col-md-4">
+                        <div class="image-box">
+                            <div class="image-box-thumbnail">
+                                <img src="images/services/eje_corto.webp" alt="">
+                            </div><!-- image-box-thumbnail -->
 
-                    <div class="col-md-4 ml-auto">
-                        <iframe  src="https://www.youtube.com/embed/j5MlCw3bPN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        
-                    </div>
-
-                    <div class="col-md-4 ml-auto">
-                        <iframe  src="https://www.youtube.com/embed/CuZ4F53jh9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        
-                    </div>
-                </div>
-
-            </div>
+                            <iframe  src="https://www.youtube.com/embed/1KickV7trak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div><!-- image-box -->
+                    </div><!-- col -->
+                    <div class="col-md-4">
+                        <div class="image-box">
+                            <div class="image-box-thumbnail">
+                                <img src="images/services/eje_horizontal.webp" alt="">
+                            </div><!-- image-box-thumbnail -->
+                            <iframe  src="https://www.youtube.com/embed/j5MlCw3bPN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div><!-- image-box -->
+                    </div><!-- col -->
+                    <div class="col-md-4">
+                        <div class="image-box">
+                            <div class="image-box-thumbnail">
+                                <img src="images/services/eje_vertical.webp" alt="">
+                            </div><!-- image-box-thumbnail -->
+                            <iframe  src="https://www.youtube.com/embed/CuZ4F53jh9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div><!-- image-box -->
+                    </div><!-- col -->
+                </div><!-- row -->
+            </div><!-- container -->
 
             <div class="container">
                 <div class="row">
-                    <p class="text-center mb-5"><img src="images/services/cortes_tomograficos_spect_cardiaco.jpg" alt="SPECT Cardíaco"></p>
-                    
-                </div>
-            </div>
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-4"></div>
-
-                    <div class="col-4">
-                        <iframe  src="https://www.youtube.com/embed/7SugmwzGEwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <h3 class="text-center">Vista 3D</h3>
+                    <div class="col-md-4">
+                        <div class="image-box">
+                            <iframe  src="https://www.youtube.com/embed/7SugmwzGEwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <h3 class="text-center">Vista 3D</h3>
+                        </div>
                     </div>
-
-                    <div class="col-4"></div>
                 </div>
             </div>
 
@@ -202,7 +202,9 @@
     </div><!-- MAIN CONTAINER -->
 
     <!-- SCROLL UP -->
-    <a id="scroll-up" class="waves"><i class="fa fa-angle-up"></i></a>
+    <a id="scroll-up" class="waves fa fa-angle-up"></a>
+
+    <a id="scroll-up-what" class="waves fa fa-whatsapp" ></a>
 
     <?php include_once "script.php"; ?>
 

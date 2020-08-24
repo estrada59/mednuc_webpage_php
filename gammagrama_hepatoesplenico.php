@@ -18,7 +18,7 @@
         <div id="page-content">
 
             <div id="page-header" class="parallax" data-stellar-background-ratio="0.3"
-                 style="background-image: url(images/backgrounds/page-header-3.jpg);">
+                 style="background-image: url(images/backgrounds/page-header-3.webp);">
 
                 <div class="container">
                     <div class="row">
@@ -36,7 +36,7 @@
                 <div class="row">
                     <div class="col-lg-5">
 
-                        <p class="text-justify mb-5" ><img src="images/services/Gammagrama_Hepatoesplenico.jpg" alt="Gammagrama Hepatoesplénico"></p>
+                        <p class="text-justify mb-5" ><img src="images/services/Gammagrama_Hepatoesplenico.webp" alt="Gammagrama Hepatoesplénico"></p>
                    
 
                     </div><!-- col -->
@@ -110,7 +110,7 @@
                     </div><!-- col -->
 
                     <div class="col-md-5">
-                        <p class="text-center mb-5"><img src="images/services/Gammagrama_Hepatoesplenico_img.jpg" alt="Gammagrama Hepatoesplénico"></p>
+                        <p class="text-center mb-5"><img src="images/services/Gammagrama_Hepatoesplenico_img.webp" alt="Gammagrama Hepatoesplénico"></p>
                     </div><!-- col -->
                 </div><!-- row -->
             </div><!-- container -->
@@ -156,7 +156,9 @@
     </div><!-- MAIN CONTAINER -->
 
     <!-- SCROLL UP -->
-    <a id="scroll-up" class="waves"><i class="fa fa-angle-up"></i></a>
+    <a id="scroll-up" class="waves fa fa-angle-up"></a>
+
+    <a id="scroll-up-what" class="waves fa fa-whatsapp" ></a>
 
     <?php include_once "script.php"; ?>
 
