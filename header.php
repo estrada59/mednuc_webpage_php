@@ -8,7 +8,7 @@
                 <!-- LOGO -->
                 <div id="logo">
                     <a href="index.php">
-                    <img src='assets/images/logo.webp' alt="">
+                    <img src='assets/images/logo.webp' srcset="assets/images/Original/logo.png" alt="">
                     </a>
                 </div><!-- LOGO -->
 
