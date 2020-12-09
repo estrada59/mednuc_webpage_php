@@ -4,7 +4,7 @@
         <div class="main-slider-container">
             <div class="owl-carousel main-slider">
                 <div class="item" style="background-image:url(images/index/main-slider/bg-slide-1.webp);">
-                    
+                   
                     <div class="slide-overlay"></div>
 
                     <div class="slide-description">
