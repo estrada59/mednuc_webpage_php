@@ -37,6 +37,8 @@
                             <p align="center">1576031</p>
                             <li>Cédula Especialidad:</li>
                             <p align="center">AECEM-24430</p>
+                            <li>Licencia Sanitaria COFEPRIS:</li>
+                            <p align="center"><a  target="_blank" href="images/Licencia/LicenciaSanitaria.jpg">20 MN 07 101 017</a></p>
 
                         </ul>
 
