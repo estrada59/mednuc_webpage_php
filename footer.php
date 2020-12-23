@@ -38,7 +38,7 @@
                             <li>Cédula Especialidad:</li>
                             <p align="center">AECEM-24430</p>
                             <li>Licencia Sanitaria COFEPRIS:</li>
-                            <p align="center"><a  target="_blank" href="images/Licencia/LicenciaSanitaria.jpg">20 MN 07 101 017</a></p>
+                            <p align="center"><a  target="_blank" href="images/licencia/LicenciaSanitaria.jpg">20 MN 07 101 017</a></p>
 
                         </ul>
 
@@ -126,7 +126,10 @@
 
                             <p class="no-margin-bottom">
                                 <small>Medicina Nuclear  &copy; 2020 All rights reserved</small>
+                                
                             </p>
+                            <p class="no-margin-bottom">
+                                <small> <a href="pdf/aviso_de_privacidad_medicina_nuclear.pdf" target="_blank">Aviso de privacidad</a>  </small></p>
 
                         </div>
 
