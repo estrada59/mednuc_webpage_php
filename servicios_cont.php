@@ -108,12 +108,12 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_hepatobiliar.webp" alt="Gammagrama Hepatobiliar"></a>
+                            <a href="gammagrama_hepatobiliar.php"><img src="images/services/Gamm_hepatobiliar.webp" alt="Gammagrama Hepatobiliar"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
 
-                            <h4><a href="#">Gammagrama Hepatobiliar</a></h4>
+                            <h4><a href="gammagrama_hepatobiliar.php">Gammagrama Hepatobiliar</a></h4>
                             
 
                         </div><!-- team-member-details -->
@@ -159,12 +159,12 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_pulmonar.webp" alt="Gammagrama Pulmonar"></a>
+                            <a href="gammagrama_pulmonar.php"><img src="images/services/Gamm_pulmonar.webp" alt="Gammagrama Pulmonar Perfusorio Y Ventilatorio"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
 
-                            <h4><a href="#">Gammagrama Pulmonar</a></h4>
+                            <h4><a href="gammagrama_pulmonar.php">Gammagrama Pulmonar Perfusorio y Ventilatorio</a></h4>
                             
 
                         </div><!-- team-member-details -->
@@ -177,12 +177,12 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_gastroesofagico.webp" alt="Gammagrama Gastroesofágico"></a>
+                            <a href="gammagrama_gastroesofagico.php"><img src="images/services/Gamm_gastroesofagico.webp" alt="Gammagrama Gastroesofágico"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
 
-                            <h4><a href="#">Gammagrama Gastroesofágico</a></h4>
+                            <h4><a href="gammagrama_gastroesofagico.php">Gammagrama Gastroesofágico</a></h4>
                             
 
                         </div><!-- team-member-details -->
@@ -211,18 +211,22 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_paratiroideo.webp" alt="Gammagrama Paratoriodeo"></a>
+                            <a href="gammagrama_paratiroidea.php"><img src="images/services/Gamm_paratiroideo.webp" alt="Gammagrama Paratoriodeo"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
 
-                            <h4><a href="#">Gammagrama Paratiroideo</a></h4>
+                            <h4><a href="gammagrama_paratiroidea.php">Gammagrama Paratiroideo</a></h4>
                             
 
                         </div><!-- team-member-details -->
                     </div><!-- team-member -->
 
                 </div><!-- col -->
+
+               
+
+                
             </div><!-- row -->
         </div><!-- container -->
 
