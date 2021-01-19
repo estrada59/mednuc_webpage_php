@@ -32,15 +32,17 @@
                         <h5 class="widget-title">Dr. Jorge L. Cisneros Encalada</h5>
 
                         <ul>
-                           
                             <li>Cédula Profesional.:</li>
                             <p align="center">1576031</p>
                             <li>Cédula Especialidad:</li>
                             <p align="center">AECEM-24430</p>
+                            
                             <li>Licencia Sanitaria COFEPRIS:</li>
-                            <p align="center"><a  target="_blank" href="images/licencia/LicenciaSanitaria.jpg">20 MN 07 101 017</a></p>
-
+                            <p align="center"><a target="_blank" href="images/licencia/LicenciaSanitaria.jpg">20 MN 07 101 017</a></p>
+                            <li>Licencia de Operación CNSNS:</li>
+                             <p align="center"><a  target="_blank" href="pdf/Permiso_SENER_2019_2021.pdf">A00.200/1929/2019</a></p>
                         </ul>
+                        
 
                     </div><!-- widget-pages -->
 
