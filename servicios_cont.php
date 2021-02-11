@@ -224,6 +224,42 @@
 
                 </div><!-- col -->
 
+
+                <div class="col-sm-6 col-lg-3">
+
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
+
+                            <a href="tratamiento_artritis.php"><img src="images/services/Trat_artritis.webp" alt="Tratamiento para Artritis"></a>
+
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
+
+                            <h4><a href="tratamiento_artritis.php">Tratamiento para Artritis</a></h4>
+                            
+
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
+                
+                </div><!-- col -->
+
+                <div class="col-sm-6 col-lg-3">
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
+
+                            <a href="tratamiento_yodo.php"><img src="images/services/Trat_yodo131.webp" alt="Tratamiento con Yodo-131"></a>
+
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
+
+                            <h4><a href="tratamiento_yodo.php">Tratamiento con Yodo-131</a></h4>
+                            
+
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
+                </div>
+                
+
                
 
                 
