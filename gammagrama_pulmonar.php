@@ -24,7 +24,7 @@
                     <div class="row">
                         <div class="col-md-12">
 
-                            <h1>Gammagrama Pulmonar Perfosorio y Ventilatorio</h1>
+                            <h1>Gammagrama Pulmonar Perfusorio y Ventilatorio</h1>
 
                         </div><!-- col -->
                     </div><!-- row -->
