@@ -27,7 +27,7 @@
                 <div class="col-md-3">
 
                     
-                    <div class="widget widget-pages">
+                    <div class="widget widget-text">
 
                         <h5 class="widget-title">Dr. Jorge L. Cisneros Encalada</h5>
 
@@ -37,10 +37,12 @@
                             <li>Cédula Especialidad:</li>
                             <p align="center">AECEM-24430</p>
                             
-                            <li>Licencia Sanitaria COFEPRIS:</li>
+                            <li >Licencia Sanitaria COFEPRIS:</li>
                             <p align="center"><a target="_blank" href="images/licencia/LicenciaSanitaria.jpg">20 MN 07 101 017</a></p>
                             <li>Licencia de Operación CNSNS:</li>
                              <p align="center"><a  target="_blank" href="pdf/Permiso_SENER_2019_2021.pdf">A00.200/1929/2019</a></p>
+                             <li>Aviso COFEPRIS:</li>
+                             <p align="center"><a  target="_blank" href="pdf/Aviso_publicidad.pdf">213300202A0146</a></p>
                         </ul>
                         
 
@@ -127,7 +129,7 @@
                         <div>
 
                             <p class="no-margin-bottom">
-                                <small>Medicina Nuclear  &copy; 2020 All rights reserved</small>
+                                <small>Medicina Nuclear  &copy; 2021 All rights reserved</small>
                                 
                             </p>
                             <p class="no-margin-bottom">
