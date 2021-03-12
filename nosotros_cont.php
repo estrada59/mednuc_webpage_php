@@ -85,12 +85,12 @@
                         <div class="team-member">
                             <div class="team-member-thumb">
 
-                                <a href="#"><img src="images/about/team/image-5.webp" alt=""></a>
+                               <img src="images/about/team/image-5.webp" alt="">
 
                             </div><!-- team-member-thumb -->
                             <div class="team-member-details">
 
-                                <h4><a href="#">Viridiana Méndez Gutiérrez</a></h4>
+                                <h4>Viridiana Méndez Gutiérrez</h4>
                                 <p>Tecnóloga Nuclear</p>
 
                             </div><!-- team-member-details -->
@@ -102,12 +102,12 @@
                         <div class="team-member">
                             <div class="team-member-thumb">
 
-                                <a href="#"><img src="images/about/team/image-4.webp" alt=""></a>
+                                <a href="dr_jorge_luis_cisneros_encalada.php"><img src="images/about/team/image-4.webp" alt=""></a>
 
                             </div><!-- team-member-thumb -->
                             <div class="team-member-details">
 
-                                <h4><a href="#">Dr. Jorge L. Cisneros Encalada</a></h4>
+                                <h4><a href="dr_jorge_luis_cisneros_encalada.php">Dr. Jorge L. Cisneros Encalada</a></h4>
                                 <p>Médico Nuclear</p>
 
                             </div><!-- team-member-details -->
@@ -119,12 +119,12 @@
                         <div class="team-member">
                             <div class="team-member-thumb">
 
-                                <a href="#"><img src="images/about/team/image-3.webp" alt=""></a>
+                                <img src="images/about/team/image-3.webp" alt="">
 
                             </div><!-- team-member-thumb -->
                             <div class="team-member-details">
 
-                                <h4><a href="#">Stephanie Méndez Gutiérrez</a></h4>
+                                <h4>Stephanie Méndez Gutiérrez</h4>
                                 <p>Tecnóloga Nuclear</p>
 
                             </div><!-- team-member-details -->
