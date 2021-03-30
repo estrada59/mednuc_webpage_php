@@ -560,15 +560,15 @@
 #footer {
 	padding: 100px 0 25px;
 	background-color: #474747;
-	color: #a1a1a1;
+	color: #ffffff;
 }
 
 #footer a {
-	color: #a1a1a1;
+	color: #ffffff;
 }
 
 #footer a:hover {
-	color: #ffffff;
+	color: #d70011;
 }
 
 #footer h1,

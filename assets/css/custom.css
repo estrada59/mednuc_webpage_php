@@ -141,7 +141,7 @@ p {
 
 /* LINKS */
 a {
-	color: #d70011;
+	color: #ffe8ea;
 }
 
 a:hover,
@@ -2612,8 +2612,8 @@ blockquote footer img {
 
 .owl-carousel button.owl-dot {
 	display: inline-block;
-	width: 9px;
-	height: 9px;
+	width: 48px;
+	height: 48px;
 	border-radius: 50%;
 	margin-right: 8px;
 	border: 2px solid #d70011;
@@ -2796,12 +2796,12 @@ blockquote footer img {
 
 	.main-slider .slide-description p {
 		margin-bottom: 20px;
-		font-size: 9px;
+		font-size: 12px;
 		line-height: 14px;
 	}
 
 	.main-slider .slide-description .btn {
-		font-size: 8px;
+		font-size: 12px;
 		line-height: 14px;
 		padding: 5px 15px;
 	}
