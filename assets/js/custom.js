@@ -265,7 +265,7 @@
     function scroll_up_whatsapp() {
 
         $("#scroll-up-what").on("click", function() {
-            window.open("https://api.whatsapp.com/send?phone=529616029211", "_blanck", "");
+            window.open("https://api.whatsapp.com/send?phone=529616029211", "_blanck", "noopener","");
         });
 
     }
@@ -397,7 +397,8 @@
                 loop: true,
                 nav: true,
                 navText: false,
-                dots: true,
+                dots: false,
+                pagination: false,
                 mouseDrag: false,
                 touchDrag: true
                 // animateIn: 'fadeIn',
@@ -422,7 +423,7 @@
                 loop: true,
                 nav: false,
                 navText: false,
-                dots: true,
+                dots: false,
                 mouseDrag: true,
                 touchDrag: true
             });
@@ -458,7 +459,7 @@
                 loop: true,
                 nav: true,
                 navText: false,
-                dots: true,
+                dots: false,
                 mouseDrag: true,
                 touchDrag: true,
                 responsive: {
