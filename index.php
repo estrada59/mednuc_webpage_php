@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-MX">
 
 <head>
     <?php include 'meta.php';?>

@@ -18,7 +18,7 @@
                                     <p>Contamos con equipo médico especializado en medicina nuclear<br>
                                        para proporcionarte el mejor servicio.</p>
 
-                                       <a class="btn btn-default waves whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" target="_blank">Haz una cita</a>
+                                       <a class="btn btn-default waves whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" rel="noopener" target="_blank">Haz una cita</a>
 
                                 </div><!-- col -->
                             </div><!-- row -->
@@ -42,7 +42,7 @@
                                     <p>Ofrecemos servicios de diagnóstico y tratamiento en Medicina Nuclear.<br>
                                         </p>
 
-                                        <a class="btn btn-default waves whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" target="_blank">Haz una cita</a>
+                                        <a class="btn btn-default waves whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" rel="noopener" target="_blank">Haz una cita</a>
 
                                 </div><!-- col -->
                             </div><!-- row -->
@@ -69,7 +69,7 @@
                                         <br>
                                         con la mejor atención y calidad de servicio a nuestros clientes.</p>
 
-                                    <a class="btn btn-default waves whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" target="_blank">Haz una cita</a>
+                                    <a class="btn btn-default waves whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" rel="noopener" target="_blank">Haz una cita</a>
                                    
 
                                 </div><!-- col -->
@@ -116,63 +116,135 @@
             </div><!-- row -->
         </div><!-- container -->
 
+       
+
         <div class="container">
             <div class="row">
-               
-                <div class="col-sm-6 col-lg-4">
+                <div class="col-sm-3 col-lg-3">
+                </div>
 
+                <div class="col-sm-6 col-lg-6">
                     <div class="team-member">
+                        <div class="team-member-thumb">
+                            <img src="images/about/team/image-6.webp" width="540" height="810" alt="EQUIPO NUMEDICS">
+                        </div>
+                    </div>
+                </div><!-- col -->
+
+                <div class="col-sm-3 col-lg-3">
+                </div>
+            </div>
+            <div class="row">
+               
+                <div class="col-sm-3 col-lg-4">
+
+                    <!--<div class="team-member">
                         <div class="team-member-thumb">
 
                             <img src="images/about/team/image-5.webp" alt="">
 
-                        </div><!-- team-member-thumb -->
-                        <div class="team-member-details">
+                        </div>--><!-- team-member-thumb -->
+                        <!--<div class="team-member-details">
 
                             <h4>Viridiana Méndez Gutiérrez</h4>
                             <p>Tecnóloga Nuclear</p>
 
-                        </div><!-- team-member-details -->
-                    </div><!-- team-member -->
+                        </div>--><!-- team-member-details -->
+                    <!--</div>--><!-- team-member -->
 
                 </div><!-- col -->
 
                 <div class="col-sm-6 col-lg-4">
 
-                    <div class="team-member">
+                    <!--<div class="team-member">
                         <div class="team-member-thumb">
 
                             <a href="dr_jorge_luis_cisneros_encalada.php"><img src="images/about/team/image-4.webp" alt=""></a>
 
-                        </div><!-- team-member-thumb -->
-                        <div class="team-member-details">
+                        </div>--><!-- team-member-thumb -->
+                        <!--<div class="team-member-details">
 
                             <h4><a href="dr_jorge_luis_cisneros_encalada.php">Dr. Jorge Luis Cisneros Encalada</a></h4>
                             <p>Médico Nuclear</p>
 
-                        </div><!-- team-member-details -->
-                    </div><!-- team-member -->
+                        </div>--><!-- team-member-details -->
+                    <!--</div>--><!-- team-member -->
 
                 </div><!-- col -->
 
-                <div class="col-sm-6 col-lg-4">
+                <div class="col-sm-3 col-lg-4">
 
-                    <div class="team-member">
+                    <!--<div class="team-member">
                         <div class="team-member-thumb">
 
                             <img src="images/about/team/image-3.webp" alt="">
 
-                        </div><!-- team-member-thumb -->
-                        <div class="team-member-details">
+                        </div>--><!-- team-member-thumb -->
+                        <!--<div class="team-member-details">
 
                             <h4>Stephanie Méndez Gutiérrez</h4>
                             <p>Tecnóloga Nuclear</p>
 
-                        </div><!-- team-member-details -->
-                    </div><!-- team-member -->
+                        </div>--><!-- team-member-details -->
+                    <!--</div>--><!-- team-member -->
 
                 </div><!-- col -->
                    
+            </div><!-- row -->
+        </div><!-- container -->
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5">
+
+                    <p class="text-center mb-5"><img src="images/about/team/image-4.webp" width="480" height="480" alt="Dr. Jorge Luis Cisneros Encalada"></p>
+
+                </div><!-- col -->
+
+                <div class="col-lg-7 col-xl-6 ml-auto">
+
+                    <h2 class="mb-0">Dr. Jorge Luis Cisneros Encalada</h2>
+                    <p class="text-uppercase text-default-color">Médico Nuclear</p>
+
+                    <br>
+
+                    <div class="widget widget-contact">
+                        <ul>
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Especialista en Medicina Nuclear e Imagen Molecular
+                            </li>
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Consejo Mexicano de Medicina Nuclear e Imagen Molecular A. C.
+                            </li>
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Consejo Mexicano de Cardiología Nuclear A. C.
+                            </li>
+
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Cédula Profesional.: 1576031
+                            </li>
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Cédula Especialidad: AECEM-24430
+                            </li>
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Licencia Sanitaria: 20 MN 07 101 017
+                            </li>
+                            <li>
+                                <a href="https://api.whatsapp.com/send?phone=529616029211" rel="noopener" target="_blank"><i class="fa fa-whatsapp"></i>961 602 9211 </a> 
+                            </li>
+                            <li>
+                                <i class="fa fa-envelope-o"></i>
+                                <a href="mailto:recepcion@medicinanucleardechiapas.com">recepcion@medicinanucleardechiapas.com</a>
+                            </li>
+                        </ul>   
+                    </div><!-- widget-contact -->
+                </div><!-- col -->
             </div><!-- row -->
         </div><!-- container -->
 

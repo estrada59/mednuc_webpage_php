@@ -51,7 +51,7 @@
 
                     <div class="col-md-6">
                         <div class="embed-responsive embed-responsive-16by9 mb-5">
-                            <iframe src="https://www.youtube.com/embed/f5FxLyHBppQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+                            <iframe title="ENTREVISTA DR. JORGE CISNEROS" src="https://www.youtube.com/embed/f5FxLyHBppQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
                         </div><!-- embed-responsive -->
                     </div>
 
@@ -78,62 +78,134 @@
                 </div><!-- row -->
             </div><!-- container -->
 
+            
+
             <div class="container">
+
+                <div class="row">
+                    
+    
+                    <div class="col-sm-12 col-lg-12">
+                        <div class="team-member">
+                            <div class="team-member-thumb">
+                                <img src="images/nosotros/equipo_numedics.webp" width="1200" height="766" alt="EQUIPO NUMEDICS">
+                            </div>
+                        </div>
+                    </div><!-- col -->
+    
+                  
+                </div>
+
                 <div class="row">
                     <div class="col-sm-4 col-lg-4">
 
-                        <div class="team-member">
+                        <!-- <div class="team-member">
                             <div class="team-member-thumb">
 
                                <img src="images/about/team/image-5.webp" alt="">
 
-                            </div><!-- team-member-thumb -->
-                            <div class="team-member-details">
+                            </div>team-member-thumb -->
+                            <!-- <div class="team-member-details">
 
                                 <h4>Viridiana Méndez Gutiérrez</h4>
                                 <p>Tecnóloga Nuclear</p>
 
-                            </div><!-- team-member-details -->
-                        </div><!-- team-member -->
+                            </div>team-member-details -->
+                        <!--</div>--><!-- team-member -->
 
                     </div><!-- col -->
                     <div class="col-sm-4 col-lg-4">
 
-                        <div class="team-member">
+                        <!--<div class="team-member">
                             <div class="team-member-thumb">
 
                                 <a href="dr_jorge_luis_cisneros_encalada.php"><img src="images/about/team/image-4.webp" alt=""></a>
 
-                            </div><!-- team-member-thumb -->
-                            <div class="team-member-details">
+                            </div>--><!-- team-member-thumb -->
+                            <!--<div class="team-member-details">
 
                                 <h4><a href="dr_jorge_luis_cisneros_encalada.php">Dr. Jorge L. Cisneros Encalada</a></h4>
                                 <p>Médico Nuclear</p>
 
-                            </div><!-- team-member-details -->
-                        </div><!-- team-member -->
+                            </div>--><!-- team-member-details -->
+                        <!--</div>--><!-- team-member -->
 
                     </div><!-- col -->
                     <div class="col-sm-4 col-lg-4">
 
-                        <div class="team-member">
+                        <!-- <div class="team-member">
                             <div class="team-member-thumb">
 
                                 <img src="images/about/team/image-3.webp" alt="">
 
-                            </div><!-- team-member-thumb -->
-                            <div class="team-member-details">
+                            </div>team-member-thumb -->
+                            <!-- <div class="team-member-details">
 
                                 <h4>Stephanie Méndez Gutiérrez</h4>
                                 <p>Tecnóloga Nuclear</p>
 
-                            </div><!-- team-member-details -->
-                        </div><!-- team-member -->
+                            </div>team-member-details -->
+                        <!--</div>--><!-- team-member -->
 
                     </div><!-- col -->
                     
                 </div><!-- row -->
             </div><!-- container -->
+
+            <div class="container">
+            <div class="row">
+                <div class="col-lg-5">
+
+                    <p class="text-center mb-5"><img src="images/about/team/image-4.webp" width="480" height="480" alt=""></p>
+
+                </div><!-- col -->
+
+                <div class="col-lg-7 col-xl-6 ml-auto">
+
+                    <h2 class="mb-0">Dr. Jorge Luis Cisneros Encalada</h2>
+                    <p class="text-uppercase text-default-color">Médico Nuclear</p>
+
+                    <br>
+
+                    <div class="widget widget-contact">
+                        <ul>
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Especialista en Medicina Nuclear e Imagen Molecular
+                            </li>
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Consejo Mexicano de Medicina Nuclear e Imagen Molecular A. C.
+                            </li>
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Consejo Mexicano de Cardiología Nuclear A. C.
+                            </li>
+
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Cédula Profesional.: 1576031
+                            </li>
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Cédula Especialidad: AECEM-24430
+                            </li>
+                            <li>
+                                <i class="fa fa-arrow-right"></i>
+                                Licencia Sanitaria: 20 MN 07 101 017
+                            </li>
+                            <li>
+                                <a href="https://api.whatsapp.com/send?phone=529616029211" rel="noopener" target="_blank"><i class="fa fa-whatsapp"></i>961 602 9211 </a> 
+                            </li>
+                            <li>
+                                <i class="fa fa-envelope-o"></i>
+                                <a href="mailto:recepcion@medicinanucleardechiapas.com">recepcion@medicinanucleardechiapas.com</a>
+                            </li>
+                        </ul>   
+                    </div><!-- widget-contact -->
+                </div><!-- col -->
+            </div><!-- row -->
+        </div><!-- container -->
 
 
             
@@ -253,7 +325,7 @@
                                         <h4>Comienzos</h4>
 
                                         <p>El Dr. Jorge L. Cisneros realizó la especialidad de Medicina Nuclear en el Hospital de Especialidades del Centro Médico Nacional Siglo XXI.</p>
-                                        <img src="images\nosotros\imss.webp">
+                                        <img src="images\nosotros\imss.webp" width="660" height="371" alt="IMSS">
 
                                     </div><!-- col -->
                                 </div><!-- row -->
@@ -268,7 +340,7 @@
 
                                         <p>El Dr. Jorge L. Cisneros fundó la primer clínica de Medicina Nuclear en Chiapas.</p>
 
-                                        <img src="images\nosotros\clinica.webp">
+                                        <img src="images\nosotros\clinica.webp" width="983" height="468" alt="CLINICA">
 
                                     </div><!-- col -->
                                     <div class="col-md-2 order-1 order-md-2">
@@ -293,7 +365,7 @@
 
                                         <p>Fundó el Colegio de Medicina Nuclear de México A. C., el cual fue creado para tener una organización de opinión crítica en busca de garantía, calidad y certeza en el ejercicio profesional.</p>
 
-                                        <img src="images\nosotros\colegio.webp">
+                                        <img src="images\nosotros\colegio.webp" width="403" height="122" alt="CMMN">
 
                                     </div><!-- col -->
                                 </div><!-- row -->
@@ -307,7 +379,7 @@
 
                                         <p>Se finaliza con la Remodelación de las instalaciones.</p>
 
-                                        <img src="images\nosotros\remodelacion.webp">
+                                        <img src="images\nosotros\remodelacion.webp" width="948" height="313" alt="CLINICA MEDICINA NUCELAR">
 
                                     </div><!-- col -->
                                     <div class="col-md-2 order-1 order-md-2">
@@ -353,7 +425,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="embed-responsive embed-responsive-16by9 mb-5">
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/TtI8qW70Ua8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe title="NUMEDICS MEDICINA NUCLEAR"  width="560" height="315" src="https://www.youtube.com/embed/TtI8qW70Ua8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </div><!-- col -->
                         </div><!-- row -->

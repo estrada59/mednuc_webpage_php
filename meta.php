@@ -1,6 +1,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=1, shrink-to-fit=no">
     <meta name="keywords" content="Medicina Nuclear, Tratamientos, Gammagramas, Tiriodes, óseo, cardiaco, renales, pulmonares, gammagrama cardiaco, gammagrama óseo, gammagrama de perfusion cerebral, SPECT cerebral, gammagrama tiroideo, gammagrama hepatoesplénico, gammagrama renal, gammagrama de mama, gammagrama pulmonar, gammagrama gastroesofágico, gammagrama paratiroideo">
     
     <meta name="description" content="La Medicina Nuclear es un método auxiliar de diagnóstico, el cual se basa en el uso de isótopos radiactivos de vida media corta, los cuales son monitoreados dentro de cualquier sistema orgánico, mediante el uso de detectores de centelleo acoplados a un sistema moderno de computo, denominado Cámara de Anger o Gammacámara.">

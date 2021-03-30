@@ -8,7 +8,7 @@
                 <!-- LOGO -->
                 <div id="logo">
                     <a href="index.php">
-                    <img src='assets/images/logo.webp' alt="">
+                    <img src='assets/images/logo.webp' width="242" height="67" alt="Logo NUMEDICS MEDICINA NUCLEAR">
                     </a>
                 </div><!-- LOGO -->
 
@@ -18,7 +18,7 @@
                 <!-- MENU -->
                 <nav>
 
-                    <a class="mobile-menu-button" href="#"><i class="fa fa-bars"></i></a>
+                    <a class="mobile-menu-button" href="#"><i class="fa fa-bars"></i> Menú</a>
                     
                     <ul class="menu clearfix" id="menu">
                         <li class= "">

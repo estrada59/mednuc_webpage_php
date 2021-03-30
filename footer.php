@@ -11,7 +11,7 @@
 
                         <div>
 
-                            <p><img src="assets/images/logo-white.webp" alt=""></p>
+                            <p><img src="assets/images/logo-white.webp" width="344" height="97" alt=""></p>
 
                             <br>
 
@@ -32,17 +32,17 @@
                         <h5 class="widget-title">Dr. Jorge L. Cisneros Encalada</h5>
 
                         <ul>
-                            <li>Cédula Profesional.:</li>
-                            <p align="center">1576031</p>
-                            <li>Cédula Especialidad:</li>
-                            <p align="center">AECEM-24430</p>
+                            <li>Cédula Profesional.: 1576031</li>
                             
-                            <li >Licencia Sanitaria COFEPRIS:</li>
-                            <p align="center"><a target="_blank" href="images/licencia/LicenciaSanitaria.jpg">20 MN 07 101 017</a></p>
-                            <li>Licencia de Operación CNSNS:</li>
-                             <p align="center"><a  target="_blank" href="pdf/Permiso_SENER_2019_2021.pdf">A00.200/1929/2019</a></p>
-                             <li>Aviso COFEPRIS:</li>
-                             <p align="center"><a  target="_blank" href="pdf/Aviso_publicidad.pdf">213300202A0146</a></p>
+                            <li>Cédula Especialidad: AECEM-24430</li>
+                            
+                            
+                            <li >Licencia Sanitaria COFEPRIS: <a rel="noopener" target="_blank" href="images/licencia/LicenciaSanitaria.jpg">20 MN 07 101 017</a></li>
+                            
+                            <li>Licencia de Operación CNSNS: <a rel="noopener" target="_blank" href="pdf/Permiso_SENER_2019_2021.pdf"> A00.200/1929/2019</a></li>
+                            
+                             <li>Aviso COFEPRIS:  <a rel="noopener" target="_blank" href="pdf/Aviso_publicidad.pdf">213300202A0146</a></li>
+                             
                         </ul>
                         
 
@@ -87,7 +87,7 @@
                                 961 602 9211 y 961 602 9479
                             </li>
                             <li>
-                                <a href="https://api.whatsapp.com/send?phone=529616029211" target="_blank"><i class="fa fa-whatsapp"></i>961 602 9211 </a> 
+                                <a href="https://api.whatsapp.com/send?phone=529616029211" rel="noopener" target="_blank"><i class="fa fa-whatsapp"></i>961 602 9211 </a> 
                             </li>
                             <li>
                                 <i class="fa fa-envelope-o"></i>
@@ -112,7 +112,7 @@
                     <div class="widget widget-social">
                         <div class="social-media">
 
-                            <a class="whatsapp" href="https://api.whatsapp.com/send?phone=529616029211" target="_blank"><i class="fa fa-whatsapp"></i></a>
+                            <a class="whatsapp" href="https://api.whatsapp.com/send?phone=529616029211"  rel="noopener" target="_blank"><i class="fa fa-whatsapp" ></i> WhatsApp</a>
                             
                            
 
@@ -133,7 +133,7 @@
                                 
                             </p>
                             <p class="no-margin-bottom">
-                                <small> <a href="pdf/aviso_de_privacidad_medicina_nuclear.pdf" target="_blank">Aviso de privacidad</a>  </small></p>
+                                <small> <a href="pdf/aviso_de_privacidad_medicina_nuclear.pdf" rel="noopener" target="_blank">Aviso de privacidad</a>  </small></p>
 
                         </div>
 
