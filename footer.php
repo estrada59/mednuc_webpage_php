@@ -57,7 +57,7 @@
 
                         <ul>
                             <li>
-                                <a class="post-title" href="#"> Lunes a Viernes 9:00 am | 7:00 pm</a>
+                                <a class="post-title" href="#"> Lunes a Viernes 9:00 am | 8:00 pm</a>
                                 
                             </li>
                             <li>

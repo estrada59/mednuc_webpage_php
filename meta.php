@@ -27,7 +27,7 @@
     <link rel="preload" href="assets/fonts/fontawesome/css/font-awesome.min.css" as="style" type="style/css" crossorigin> -->
 
 
-    <link rel="preload" href="assets/fonts/fontawesome/fonts/fontawesome-webfont.woff2" as="font" type="font/woff2" crossorigin>
+    <!-- <link rel="preload" href="assets/fonts/fontawesome/fonts/fontawesome-webfont.woff2" as="font" type="font/woff2" crossorigin> -->
 
     <link rel="preload" href="images/index/main-slider/bg-slide-1.webp" as="image" media="(max-width: 600px)">
     <link rel="preload" href="images/index/main-slider/bg-slide-2.webp" as="image" media="(max-width: 600px)">

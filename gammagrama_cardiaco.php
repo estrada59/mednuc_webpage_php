@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-MX">
 
 <head>
     <?php include 'meta_servicios.php';?>
@@ -36,7 +37,7 @@
                 <div class="row">
                     <div class="col-lg-5">
 
-                        <p class="text-justify mb-5" ><img src="images/services/Gammagrama_Cardiaco.webp" alt="Gammagrama Cardíaco">Permiten evaluar de manera no invasiva, funcional y cuantificable la perfusión y la reserva coronaria de las paredes del ventriculo izquierdo.</p>
+                        <p class="text-justify mb-5" ><img src="images/services/Gammagrama_Cardiaco.webp" width="570" height="570" alt="Gammagrama Cardíaco">Permiten evaluar de manera no invasiva, funcional y cuantificable la perfusión y la reserva coronaria de las paredes del ventriculo izquierdo.</p>
                    
 
                     </div><!-- col -->
@@ -94,7 +95,7 @@
                     </div><!-- col -->
 
                     <div class="col-md-5">
-                        <p class="text-center mb-5"><img src="images/services/Spect_Cardiaco.webp" alt="SPECT Cardíaco"></p>
+                        <p class="text-center mb-5"><img src="images/services/Spect_Cardiaco.webp" width="617" height="640" alt="SPECT Cardíaco"></p>
                     </div><!-- col -->
                 </div><!-- row -->
             </div><!-- container -->
@@ -139,7 +140,7 @@
                                 <img src="images/services/eje_corto.webp" alt="">
                             </div><!-- image-box-thumbnail -->
 
-                            <iframe  src="https://www.youtube.com/embed/1KickV7trak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe title="Corazón Eje corto" src="https://www.youtube.com/embed/1KickV7trak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div><!-- image-box -->
                     </div><!-- col -->
                     <div class="col-md-4">
@@ -147,7 +148,7 @@
                             <div class="image-box-thumbnail">
                                 <img src="images/services/eje_horizontal.webp" alt="">
                             </div><!-- image-box-thumbnail -->
-                            <iframe  src="https://www.youtube.com/embed/j5MlCw3bPN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe title="Corazón Eje horizontal" src="https://www.youtube.com/embed/j5MlCw3bPN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div><!-- image-box -->
                     </div><!-- col -->
                     <div class="col-md-4">
@@ -155,7 +156,7 @@
                             <div class="image-box-thumbnail">
                                 <img src="images/services/eje_vertical.webp" alt="">
                             </div><!-- image-box-thumbnail -->
-                            <iframe  src="https://www.youtube.com/embed/CuZ4F53jh9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe title="Corazón Eje vertical" src="https://www.youtube.com/embed/CuZ4F53jh9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div><!-- image-box -->
                     </div><!-- col -->
                 </div><!-- row -->

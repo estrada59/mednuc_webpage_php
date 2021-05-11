@@ -25,14 +25,10 @@
     <!-- FONTS -->
      <!-- <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic">  -->
 
-     <link rel="preload" href="assets/fonts/fontawesome/fonts/fontawesome-webfont.woff2" as="font" type="font/woff2" crossorigin>
+     
 
-    <link rel="preload" href="images/index/main-slider/bg-slide-1.webp" as="image" media="(max-width: 600px)">
-    <link rel="preload" href="images/index/main-slider/bg-slide-2.webp" as="image" media="(max-width: 600px)">
-    <link rel="preload" href="images/index/main-slider/bg-slide-3.webp" as="image" media="(max-width: 600px)">
-
-    <link rel="preload" href="images/backgrounds/bg-1.webp" as="image" media="(max-width: 600px)">
-    <link rel="preload" href="images/backgrounds/bg-2.webp" as="image" media="(max-width: 600px)">
+    <link rel="preload" href="images/backgrounds/page-header-3.webp" as="image" media="(max-width: 600px)">
+    
 
     
 

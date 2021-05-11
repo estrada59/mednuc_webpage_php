@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-MX">
 
 <head>
     <?php include 'meta_servicios.php';?>
@@ -38,7 +39,7 @@
                 <div class="row">
                     <div class="col-lg-5">
 
-                        <p class="text-justify mb-5" ><img src="images/services/Gammagrama_Oseo.webp" alt="Gammagrama Óseo"></p>
+                        <p class="text-justify mb-5" ><img width="570" height="570" src="images/services/Gammagrama_Oseo.webp" alt="Gammagrama Óseo"></p>
                    
 
                     </div><!-- col -->
@@ -99,7 +100,7 @@
                     </div><!-- col -->
 
                     <div class="col-md-5">
-                        <p class="text-center mb-5"><img src="images/services/Gammagrama_Oseo_img.webp" alt="Gammagrama Óseo"></p>
+                        <p class="text-center mb-5"><img width="570" height="800" src="images/services/Gammagrama_Oseo_img.webp" alt="Gammagrama Óseo"></p>
                     </div><!-- col -->
                 </div><!-- row -->
             </div><!-- container -->

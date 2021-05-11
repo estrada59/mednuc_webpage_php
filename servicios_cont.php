@@ -24,7 +24,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_cardiaco.php"  ><img src="images/services/Gamm_cardiaco.webp" alt="Gammagrama Cardiaco"></a>
+                            <a href="gammagrama_cardiaco.php"  ><img src="images/services/Gamm_cardiaco.webp" width="479" height="480" alt="Gammagrama Cardiaco"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -41,7 +41,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_oseo.php"><img src="images/services/Gamm_oseo.webp" alt="Gammagrama Óseo"></a>
+                            <a href="gammagrama_oseo.php"><img src="images/services/Gamm_oseo.webp" width="479" height="480" alt="Gammagrama Óseo"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -57,7 +57,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_spect_cerebral.php"><img src="images/services/Gamm_spect_cerebral.webp" alt="Gammagrama SPECT cerebral"></a>
+                            <a href="gammagrama_spect_cerebral.php"><img src="images/services/Gamm_spect_cerebral.webp" width="479" height="480" alt="Gammagrama SPECT cerebral"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -73,7 +73,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_tiroideo.php"><img src="images/services/Gamm_tiroides.webp" alt="Gammagrama Tiroideo"></a>
+                            <a href="gammagrama_tiroideo.php"><img src="images/services/Gamm_tiroides.webp" width="479" height="480" alt="Gammagrama Tiroideo"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -91,7 +91,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_hepatoesplenico.php"><img src="images/services/Gamm_hepatico.webp" alt="Gammagrama Hepatoesplénico"></a>
+                            <a href="gammagrama_hepatoesplenico.php"><img src="images/services/Gamm_hepatico.webp" width="479" height="480" alt="Gammagrama Hepatoesplénico"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -108,7 +108,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_hepatobiliar.php"><img src="images/services/Gamm_hepatobiliar.webp" alt="Gammagrama Hepatobiliar"></a>
+                            <a href="gammagrama_hepatobiliar.php"><img src="images/services/Gamm_hepatobiliar.webp" width="479" height="480" alt="Gammagrama Hepatobiliar"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -125,7 +125,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_renal.php"><img src="images/services/Gamm_renal.webp" alt="Gammagrama Renal"></a>
+                            <a href="gammagrama_renal.php"><img src="images/services/Gamm_renal.webp" width="479" height="480" alt="Gammagrama Renal"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -142,12 +142,12 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_mama.webp" alt="Gammagrama de mama"></a>
+                            <a href="gammagrama_mama.php"><img src="images/services/Gamm_mama.webp" width="479" height="480" alt="Gammagrama de mama"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
 
-                            <h4><a href="#">Gammagrama de mama</a></h4>
+                            <h4><a href="gammagrama_mama.php">Gammagrama de mama</a></h4>
                             
 
                         </div><!-- team-member-details -->
@@ -159,7 +159,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_pulmonar.php"><img src="images/services/Gamm_pulmonar.webp" alt="Gammagrama Pulmonar Perfusorio Y Ventilatorio"></a>
+                            <a href="gammagrama_pulmonar.php"><img src="images/services/Gamm_pulmonar.webp" width="479" height="480" alt="Gammagrama Pulmonar Perfusorio Y Ventilatorio"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -177,7 +177,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_gastroesofagico.php"><img src="images/services/Gamm_gastroesofagico.webp" alt="Gammagrama Gastroesofágico"></a>
+                            <a href="gammagrama_gastroesofagico.php"><img src="images/services/Gamm_gastroesofagico.webp" width="479" height="480" alt="Gammagrama Gastroesofágico"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -194,7 +194,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="#"><img src="images/services/Gamm_bazo.webp" alt="Gammagrama Bazo"></a>
+                            <a href="#"><img src="images/services/Gamm_bazo.webp" width="479" height="480" alt="Gammagrama Bazo"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -211,7 +211,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="gammagrama_paratiroidea.php"><img src="images/services/Gamm_paratiroideo.webp" alt="Gammagrama Paratoriodeo"></a>
+                            <a href="gammagrama_paratiroidea.php"><img src="images/services/Gamm_paratiroideo.webp" width="479" height="480" alt="Gammagrama Paratoriodeo"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -230,7 +230,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="tratamiento_artritis.php"><img src="images/services/Trat_artritis.webp" alt="Tratamiento para Artritis"></a>
+                            <a href="tratamiento_artritis.php"><img src="images/services/Trat_artritis.webp" width="479" height="480" alt="Tratamiento para Artritis"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -247,7 +247,7 @@
                     <div class="team-member">
                         <div class="team-member-thumb rounded-circle">
 
-                            <a href="tratamiento_yodo.php"><img src="images/services/Trat_yodo131.webp" alt="Tratamiento con Yodo-131"></a>
+                            <a href="tratamiento_yodo.php"><img src="images/services/Trat_yodo131.webp" width="479" height="480" alt="Tratamiento con Yodo-131"></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -281,7 +281,7 @@
                 <div class="col-md-10 ml-auto mr-auto">
 
                     <div class="embed-responsive embed-responsive-16by9 mb-5">
-                        <iframe src="https://www.youtube.com/embed/f5FxLyHBppQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+                        <iframe title="Entrevista Dr. Jorge Cisneros" src="https://www.youtube.com/embed/f5FxLyHBppQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
                     </div><!-- embed-responsive -->
                    
                 </div><!-- col -->
