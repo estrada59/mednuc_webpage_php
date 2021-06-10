@@ -24,6 +24,9 @@
 
     <a id="scroll-up-what" class="waves fa fa-whatsapp" ></a>
 
+    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+
     <?php include_once "script.php"; ?>
 
 </body>

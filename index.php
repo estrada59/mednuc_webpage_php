@@ -5,6 +5,7 @@
     <?php include 'meta.php';?>
 
     <title>Medicina Nuclear</title>
+
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -21,15 +22,14 @@
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- SCROLL UP -->
-    <a id="scroll-up" class="fa fa-angle-up"></a>
-
-    <a id="scroll-up-what" class="fa fa-whatsapp" ></a>
-
+    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
     
     
 
     <?php include_once "script.php"; ?>
+
+    <!--  -->
 
 </body>
 
