@@ -2524,16 +2524,16 @@ blockquote footer img {
 #scroll-up {
 	position: fixed;
 	z-index: 8030;
-	bottom: 50px;
-	right: 50px;
+	bottom: 160px;
+	right: 24px;
 	display: none;
-	width: 46px;
-	height: 46px;
+	width: 60px;
+	height: 60px;
 	border-radius: 50%;
 	background-color: #d70011;
 	color: #fff;
-	font-size: 24px;
-	line-height: 42px;
+	font-size: 48px;
+	line-height: 50px;
 	text-align: center;
 	text-decoration: none;
 	cursor: pointer;
@@ -2548,8 +2548,8 @@ blockquote footer img {
 @media (max-width: 767px) {
 
 	#scroll-up {
-		right: 20px;
-		bottom: 20px;
+		right: 25px;
+		bottom: 156px;
 	}
 
 }
@@ -2558,17 +2558,17 @@ blockquote footer img {
 
 #scroll-up-what {
 	position: fixed;
-	z-index: 8030;
-	bottom: 100px;
-	right: 50px;
+	z-index: 1;
+	bottom: 93px;  /*altura desde la parte baja de pagina hacia arriba*/
+	right: 24px;
 	display: none;
-	width: 46px;
-	height: 46px;
+	width: 60px;  /*tamaño de ancho de circulo*/ 
+	height: 60px; /*tamaño de alto de circulo*/
 	border-radius: 50%;
 	background-color: #d70011;
 	color: #fff;
-	font-size: 30px;
-	line-height: 42px;
+	font-size: 48px;   /*tamaño de icono de whatsapp */
+	line-height: 58px; /* centrado vertical de logo*/
 	text-align: center;
 	text-decoration: none;
 	cursor: pointer;
@@ -2583,8 +2583,8 @@ blockquote footer img {
 @media (max-width: 767px) {
 
 	#scroll-up-what {
-		right: 20px;
-		bottom: 80px;
+		right: 25px;
+		bottom: 90px;
 	}
 
 }
