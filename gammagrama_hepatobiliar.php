@@ -5,7 +5,7 @@
    
     <meta name="description" content="La gammagrafía hepatobiliar nos muestra la función hepática y detecta, cálculos biliares, fuga de bilis, obstrucciones en el flujo de bilis de la vesícula biliar hacia el hígado.">
 
-    <title>Medicina Nuclear</title>
+    <title>Gammagrama Hepatobiliar - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -125,11 +125,12 @@
 
 
         <?php include_once "footer.php"; ?>
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
-    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+    
 
     <?php include_once "script.php"; ?>
 

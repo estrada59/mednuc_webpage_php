@@ -5,7 +5,7 @@
    
     <meta name="description" content="La gammagrafía hepatoesplénica es el procedimiento que se utiliza para demostrar la integridad del sistema retículoendotelial del hígado y el bazo (función).">
 
-    <title>Medicina Nuclear</title>
+    <title>Gammagrama Hepatoesplénico - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -130,11 +130,12 @@
 
 
         <?php include_once "footer.php"; ?>
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
-    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+    
 
     <?php include_once "script.php"; ?>
 

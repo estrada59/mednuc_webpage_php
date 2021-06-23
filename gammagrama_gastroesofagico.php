@@ -5,7 +5,7 @@
    
     <meta name="description" content="La gammagrafía gastroesofágica comprende varias técnicas diagnósticas de imagen que tienen como finalidad estudiar el movimiento (motilidad) de las paredes del esófago y estómago">
 
-    <title>Medicina Nuclear</title>
+    <title>Gammagrama Gastroesofágico - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -122,11 +122,12 @@
 
 
         <?php include_once "footer.php"; ?>
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
-    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+    
 
     <?php include_once "script.php"; ?>
 

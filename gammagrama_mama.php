@@ -5,7 +5,7 @@
    
     <meta name="description" content="Una gammagrafía mamaria es una prueba de diagnóstico por imágenes que se usa para observar sus mamas o senos.">
 
-    <title>Medicina Nuclear</title>
+    <title>Gammagrama de Mama - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -183,11 +183,12 @@
 
 
         <?php include_once "footer.php"; ?>
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
-    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+    
 
     <?php include_once "script.php"; ?>
 

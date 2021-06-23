@@ -6,7 +6,7 @@
    
     <meta name="description" content="En México las enfermedades del corazón fueron la primera causa de mortalidad en el año 2003. El infarto agudo del miocardio contribuyó con el 80% del total de defunciones en ese grupo.">
 
-    <title>Medicina Nuclear</title>
+    <title>Gammagrama Cardiaco - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -178,10 +178,12 @@
 
         <?php include_once "footer.php"; ?>
 
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+
     </div><!-- MAIN CONTAINER -->
 
-    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
-    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+    
 
     <?php include_once "script.php"; ?>
 

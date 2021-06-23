@@ -3,14 +3,15 @@
 
 <a id="scroll-up-what" class="waves fa fa-whatsapp" ></a>
 
-<!-- Messenger plugin del chat Code -->
-<div id="fb-root"></div>
+
+ <!-- Messenger plugin del chat Code -->
+ <div id="fb-root"></div>
 
 <!-- Your plugin del chat code -->
-<div id="fb-customer-chat" class="fb-customerchat">
-</div>
-<!-- Script facebook -->
-<script>
+<div id="fb-customer-chat" class="fb-customerchat"></div>
+
+  <!-- Script facebook -->
+  <script>
   var chatbox = document.getElementById('fb-customer-chat');
   chatbox.setAttribute("page_id", "107836614730369");
   chatbox.setAttribute("attribution", "biz_inbox");

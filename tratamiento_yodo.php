@@ -5,7 +5,7 @@
    
     <meta name="description" content="El tratamiento con yodo radioactivo (I-131) es un tratamiento que se emplea en algunas patologías de la glándula tiroides. La finalidad del tratamiento es disminuir la actividad excesiva de la glándula, reducir o evitar un incremento excesivo de tamaño y en otros casos erradicar la presencia de células funcionales..">
 
-    <title>Medicina Nuclear</title>
+    <title>Tratamiento de Yodo - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -118,14 +118,12 @@
 
 
         <?php include_once "footer.php"; ?>
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- SCROLL UP -->
-    <a id="scroll-up" class="waves fa fa-angle-up"></a>
-
-    <a id="scroll-up-what" class="waves fa fa-whatsapp" ></a>
-
+    
     <?php include_once "script.php"; ?>
 
 </body>

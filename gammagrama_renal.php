@@ -5,7 +5,7 @@
    
     <meta name="description" content="La gammagrafía renal es un estudio de medicina nuclear no invasivo,  en base a la concentración de radiotrazadores o radiofármacos evalúan predominantemente el aspecto funcional dinámico de los riñones el cual permite conjuntamente realizar un análisis cuantitativo de los riñones en forma conjunta y/o por separado.">
 
-    <title>Medicina Nuclear</title>
+    <title>Gammagrama Renal - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -138,11 +138,12 @@
 
 
         <?php include_once "footer.php"; ?>
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
-    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+    
 
     <?php include_once "script.php"; ?>
 

@@ -5,7 +5,7 @@
    
     <meta name="description" content="La gammagrafía tiroidea es un método diagnóstico de imagen que utiliza un trazador radiactivo para el estudio de la glándula tiroides.">
 
-    <title>Medicina Nuclear</title>
+    <title>Gammagrama Tiroideo - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -135,11 +135,12 @@
 
 
         <?php include_once "footer.php"; ?>
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
-    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+    
 
     <?php include_once "script.php"; ?>
 

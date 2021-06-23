@@ -5,7 +5,7 @@
    
     <meta name="description" content="La gammagrafía de perfusión pulmonar es un método diagnóstico de imagen que estudia la distribución del flujo sanguíneo arterial en los pulmones.">
 
-    <title>Medicina Nuclear</title>
+    <title>Gammagrama Pulmonar - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -118,11 +118,12 @@
 
 
         <?php include_once "footer.php"; ?>
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
-    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+    
 
     <?php include_once "script.php"; ?>
 

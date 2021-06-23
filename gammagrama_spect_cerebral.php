@@ -5,7 +5,7 @@
    
     <meta name="description" content="El SPECT cerebral investiga de forma no invasiva la perfusión cerebral. Constituye un método de evaluación funcional de gran utilidad en el estudio de los síndromes neurológicos o neuropsiquiátricos.">
 
-    <title>Medicina Nuclear</title>
+    <title>Gammagrama SPECT Cerebral - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -142,11 +142,12 @@
 
 
         <?php include_once "footer.php"; ?>
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
-    <?php include_once "WhatsApp_Facebook_Subir.php" ?>
+    
 
     <?php include_once "script.php"; ?>
 

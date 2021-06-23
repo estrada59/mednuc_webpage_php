@@ -5,7 +5,7 @@
    
     <meta name="description" content="La Artritis Reumatoide (AR) es una enfermedad inflamatoria sistémica crónica, de causa desconocida, que afecta de modo principal las membranas sinoviales de múltiples articulaciones.">
 
-    <title>Medicina Nuclear</title>
+    <title>Tratamiento para Artritis - Medicina Nuclear</title>
 </head>
 
 <body class="sticky-header header-classic footer-parallax">
@@ -201,13 +201,11 @@
 
 
         <?php include_once "footer.php"; ?>
+        <!-- Botones de Facebook WhatsApp y flecha para subir a contenido superior -->
+        <?php include_once "WhatsApp_Facebook_Subir.php" ?>
 
     </div><!-- MAIN CONTAINER -->
 
-    <!-- SCROLL UP -->
-    <a id="scroll-up" class="waves fa fa-angle-up"></a>
-
-    <a id="scroll-up-what" class="waves fa fa-whatsapp" ></a>
 
     <?php include_once "script.php"; ?>
 
