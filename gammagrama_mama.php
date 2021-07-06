@@ -47,7 +47,7 @@
                        <br>-->
                        <br>
 
-                        <p>La gammagrafía de mama es una prueba de diagnóstico por imágenes que se usa para observar sus mamas o senos. Se usa cuando una mamografía no le proporciona suficiente información a su médico tratante.</p>
+                        <p>La gammagrafía de mama es una prueba de diagnóstico por imágenes que se usa para observar las mamas. Se usa cuando una mamografía no le proporciona suficiente información a su médico tratante.</p>
 
                         <p>Aplicaciones clínicas:</p>
 
